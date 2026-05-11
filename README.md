@@ -5,35 +5,33 @@
 
 <!-- Badges de contacto (¡actualiza los links!) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/diegocalva04/" target="_blank">
+  <a href="www.linkedin.com/in/diego-calva-4985b1409" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
+  <a href="mailto:diegocalva1914@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
+  <a href="https://x.com/calva_dieg13563" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 <!-- Frase o lema -->
 <p align="center">
-  <i>"El código limpio, la comunidad y el café ☕ hacen un mejor desarrollador"</i>
+  <i>"Strike First - Strike Hard - No Mercy"</i>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos personales para mejorar mis habilidades.
-- 🌱 Aprendiendo **React, Node.js y bases de datos**.
-- 👯 Busco colaborar en proyectos open source interesantes.
-- ⚡ Dato curioso: Me encanta resolver problemas de lógica y jugar videojuegos.
-- 📫 Cómo contactarme: **diegocalva04@gmail.com** (cámbialo por el tuyo)
+- Actualmente trabajando en proyectos personales para mejorar mis habilidades.
+- Busco colaborar en proyectos open source interesantes.
+- Cómo contactarme: diegocalva04@gmail.com
 
 ---
 
-### 🛠️ Tecnologías con las que he trabajado
+### Tecnologías con las que he trabajado
 
 <p align="center">
   <!-- Lenguajes base -->
@@ -50,7 +48,7 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub (dinámicas y chéveres)
+### Mis estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocalva04&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
@@ -63,7 +61,7 @@
 
 ---
 
-### 🏆 Trofeos de GitHub (extra cool)
+### Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=diegocalva04&theme=radical&no-frame=true&row=1&column=7"/>
@@ -71,7 +69,7 @@
 
 ---
 
-### 👀 Contador de visitas
+### Visitas
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=diegocalva04.diegocalva04"/>
