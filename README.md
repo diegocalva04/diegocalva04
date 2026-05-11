@@ -1,6 +1,3 @@
-<h1 align="center">👋 ¡Hola! Soy Diego Calva</h1>
-<h3 align="center">💻 Desarrollador apasionado por crear soluciones y aprender cada día</h3>
-
 <!-- Banner personalizado (opcional: cambia la imagen por una tuya) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Diego%20Calva&fontSize=40&fontAlignY=35"/>
